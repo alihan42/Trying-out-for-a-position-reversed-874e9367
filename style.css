@@ -1,0 +1,11 @@
+.blauw {
+	position: absolute;
+	top: 100px;
+	left: 100px;	
+}
+
+.blauw {
+z-index: -1;
+top:100px;
+left:100px;
+}
